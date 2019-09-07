@@ -1,4 +1,4 @@
-# Inertable 
+# Inertiable 
 
 This is a simple example adapter for [Inertia.js](https://github.com/inertiajs/inertia)
 Ruby on Rails adapter for Inertia.js
